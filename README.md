@@ -29,3 +29,7 @@ For example, if you enter the numbers `2, 3, 5, 7, 11, 13`, the calculator will 
 - **Range**: 11
 - **Variance**: 14.13888888888889
 - **Standard Deviation**: 3.759884722760651
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
